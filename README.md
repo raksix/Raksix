@@ -7,4 +7,5 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Raksix&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raksix&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://count.getloli.com/get/@Raksix?theme=moebooru" alt="github_page_count">
 </p>
