@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://raksix.vercel.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-raksix.vercel.app-blue?style=for-the-badge&logo=appveyor"></a>
   <a href="https://discord.gg/N9nQrhTNNh" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/1122106705157886032?color=7289da&label=Discord&style=for-the-badge&logo=discord"></a>
-  <a href="https://www.reddit.com/user/raksixdev" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-raksixdev-orange?style=for-the-badge&logo=reddit"></a>
 </p>
 
 ---
